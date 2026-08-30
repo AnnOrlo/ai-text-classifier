@@ -1,0 +1,11 @@
+# Веб-фреймворк
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+
+# ML зависимости
+scikit-learn
+numpy
+pandas
+joblib
